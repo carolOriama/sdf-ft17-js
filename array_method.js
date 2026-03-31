@@ -34,6 +34,6 @@ const array_sum = numbers.reduce(function(num, acc){
 console.log(array_sum)
 
 
-hoisting
-closure
-reduce array method in js
+// hoisting
+// closure
+// reduce array method in js

@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+ul>li{
+    list-style-type: none;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 5px;
+}
+
+.main{
+    height: 50vh;
+}
+
+/* #paragraph{
+    text-align: center;
+} */
